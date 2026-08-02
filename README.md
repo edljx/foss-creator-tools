@@ -17,7 +17,7 @@ A curated catalog of free and open source software that lets creators produce vi
 
 ---
 
-## Video & Audio Production
+### Video & Audio Production
 
 * **[LTX-Video](https://github.com/Lightricks/LTX-Video)** — open-source transformer-based video generation model for high-resolution, temporally coherent clips from text or image prompts.
 * **[yt-short-clipper](https://github.com/jipraks/yt-short-clipper)** — Python tool that detects and clips the most engaging segments of long YouTube videos into vertical short-form.
@@ -27,18 +27,18 @@ A curated catalog of free and open source software that lets creators produce vi
 * **[automate-faceless-content](https://github.com/cporter202/automate-faceless-content)** — automation pipeline for generating and publishing faceless video content.
 * **[video-starter-kit](https://github.com/fal-ai-community/video-starter-kit)** — starter project that wires open-source models into a turnkey video generation workflow.
 
-## Music & Audio
+### Music & Audio
 
 * **[Harmony-Music](https://github.com/anandnet/Harmony-Music)** — cross-platform music player and streaming client with offline playback.
 * **[pear-desktop](https://github.com/pear-devs/pear-desktop)** — lightweight desktop music streaming app with playlist and lyrics support.
 
-## Design & Visualization
+### Design & Visualization
 
 * **[Neoflow](https://github.com/kiraaziz/Neoflow)** — node-based visual programming environment for building AI and data workflows.
 * **[phoenix](https://github.com/phcode-dev/phoenix)** — browser-based code editor for web development with live preview and collaboration.
 * **[pad.ws](https://github.com/coderamp-labs/pad.ws)** — collaborative whiteboard for visual thinking, diagramming, and workshops.
 
-## Documents, Writing & PDFs
+### Documents, Writing & PDFs
 
 * **[harper](https://github.com/Automattic/harper)** — local grammar and style checker built in Rust with an emphasis on speed and privacy.
 * **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** — curated list of free programming, scripting, and markup books.
@@ -49,29 +49,29 @@ A curated catalog of free and open source software that lets creators produce vi
 * **[docs](https://github.com/sismics/docs)** — lightweight document management and sharing platform for teams.
 * **[omniget](https://github.com/tonhowtf/omniget)** — universal media downloader that pulls video and audio from many platforms.
 
-## Workflow Automation & Scheduling
+### Workflow Automation & Scheduling
 
 * **[VibeWorkflowPlatform](https://github.com/AIGeniusInstitute/VibeWorkflowPlatform)** — visual workflow builder for chaining prompts, agents, and integrations.
 * **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** — collection of ready-to-import n8n workflow templates for common automations.
 * **[xyops](https://github.com/pixlcore/xyops)** — self-hosted control plane for scheduling, orchestration, and event-driven automation.
 * **[remarkable-calendar-creator](https://github.com/koenvervloesem/remarkable-calendar-creator)** — generates calendar pages for the reMarkable tablet from ICS feeds.
 
-## Creator Plugins & Extensions
+### Creator Plugins & Extensions
 
 * **[ai-assistant-plugin](https://github.com/ai-eifying/ai-assistant-plugin)** — assistant plugin that injects AI utilities into creator workflows.
 * **[trilium-extended-shiz](https://github.com/ojamin/trilium-extended-shiz)** — extended plugin set for the Trilium note-taking platform.
 * **[SP-MCP](https://github.com/organicmoron/SP-MCP)** — Model Context Protocol server that exposes creator tools to AI assistants.
 
-## Browser & Surfing for Creators
+### Browser & Surfing for Creators
 
 * **[SurfSense](https://github.com/MODSetter/SurfSense)** — research agent that ingests web pages, PDFs, and videos into a personal knowledge base.
 * **[ytsurf](https://github.com/Stan-breaks/ytsurf)** — browser-based YouTube discovery and queueing tool for researchers.
 
-## AI Creators
+### AI Creators
 
 * **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** — end-to-end system for generating AI-driven video avatars from text and image inputs.
 
-## Learning for Creators
+### Learning for Creators
 
 * **[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)** — curated index of high-quality computer science video courses.
 
